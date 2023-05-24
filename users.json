@@ -1,0 +1,38 @@
+[
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$wv9hCKCNfOJTSuZhY1KONo$6SmYFi5N2Zhqn5hDmuEkGiDfL5EY8HOkyi2pq2sElvY=",
+        "last_login": "2023-05-24T01:38:15.854Z",
+        "is_superuser": false,
+        "username": "seo5719@worksout.co.kr",
+        "first_name": "harry",
+        "last_name": "kim",
+        "email": "seo5719@worksout.co.kr",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-05-23T09:48:40.547Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$RoKXLgCli8JarKKzMoqgSl$A0eL0+mdvP+HN32uhNfaSg2O5FWOYfbgdN9a1mpN7lk=",
+        "last_login": "2023-05-24T01:37:32.825Z",
+        "is_superuser": false,
+        "username": "seo5719@naver.com",
+        "first_name": "hyeonseok",
+        "last_name": "seo",
+        "email": "seo5719@naver.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-05-24T01:37:26.310Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]
